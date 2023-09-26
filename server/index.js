@@ -22,7 +22,7 @@ const config = {
 //INICIAR SERVIDOR
 const PORT = 3000;
 const app = express();
-const DB = 'mongodb+srv://gustavogallesio:Mongo1968@cluster0.8vn80ag.mongodb.net/?retryWrites=true&w=majority';
+const DB = 'mongodb+srv://;
 
 //MIDDELWARE
 app.use(express.json());
